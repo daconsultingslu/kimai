@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
     <img src="https://raw.githubusercontent.com/kimai/images/main/repository-header.png" alt="Kimai logo">
 </p>
 
